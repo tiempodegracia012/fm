@@ -1,0 +1,170 @@
+.rudi{
+
+      margin-left: 90%;
+  height: 70px;
+  width: 70px;
+  box-shadow: 0px 1px 10px rgba(0,0,0,50);
+display: inline-block;
+  content: inline-block;
+  background-color: black;
+  color: red;
+  padding: 0px;
+
+
+}
+
+body{
+    background-color:#1c2833;height:
+
+
+}
+h1{
+
+   font-family: "Lobster", sans-serif;
+  text-shadow: 1px 20px 20px #24023b;
+   text-align: center; 
+   font-size:60px ; 
+   color: white;
+     font-size: 2rem; /* 1rem = 16px por defecto, pero puede variar */
+  line-height: 1.5; /* Altura de línea */
+}
+
+nav{
+   
+    height: 100px;
+    width: 100%; 
+}
+
+
+
+
+.container{
+width: 80%;
+max-width: 1100px;
+overflow: hidden;
+margin-bottom: 7%;
+
+
+}
+
+.container2{
+width: 100%;
+border-radius:20%;
+margin-left: 0%;
+padding-bottom: 7%;
+overflow: hidden;
+
+
+
+}
+
+main{
+    width: 70%;
+
+}
+h2, h5{
+    color: white;
+ font-family: "Marmelad", sans-serif;
+
+  font-size: 10px;
+  font-style: normal;
+}
+
+a{
+    text-decoration: none;
+}
+
+.rr{
+    background-color: #131415;
+    border-radius: 10%;
+    margin-left: 0%;
+}
+
+.img1{
+
+ 
+    padding-left: 0%|;
+    float: center;
+
+    opacity: 1;
+}
+
+.watsap{
+    font-size: 80px;
+
+}
+
+
+.imi{
+    border-radius: 50%;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.7);
+}
+
+
+
+.boton-flotante {
+
+  padding-left: 1000px;
+  height: 60px;
+  width: 65px;
+  box-shadow: 0px 1px 10px rgba(0,0,0,50);
+  text-decoration: none;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #0df053;
+  color: white;
+  padding: 0px;
+  border-radius: 50%;
+  font-size: 12.5px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.boton-flotante:hover {
+  background-color: #128c2e;
+  transform: scale(1.1);
+}
+
+/* Ícono de WhatsApp */
+.fas.fa-whatsapp {
+  /* Estilos para el icono, si es necesario */
+}
+
+footer{
+    background-color: #cdd6de;
+}
+
+
+
+.source{
+    background-color:red ;
+    height: 1000px;
+
+}
+
+.musi{
+    height:200px;
+}
+
+.lov{
+    background-color: #252325;
+opacity: 0.9;  ;
+}
+
+
+.parrafo{
+    text-align: center;
+    margin-left: 5%;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+}
+
+.dias{
+    background-color: #626a84;
+}
+.dias2{
+    
+    background-color: #ffff;
+}
